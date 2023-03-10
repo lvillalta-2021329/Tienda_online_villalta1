@@ -21,7 +21,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"nombre\": \"Pan bimbo\",\r\n    \"precio\": 10,\r\n    \"stock\": 10,\r\n    \"categoria\": \"640a1a983105586e59709904\",\r\n    \"descripcion\": \"Bolsa de pan bimbo 30 U\"\r\n}",
+							"raw": "{\r\n    \"nombre\": \"Cremoncitos\",\r\n    \"precio\": 9,\r\n    \"stock\": 9,\r\n    \"categoria\": \"640a1a983105586e59709904\",\r\n    \"descripcion\": \"Bolsa de cremoncitos 28 \"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -56,7 +56,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"nombre\": \"Neskuik\",\r\n    \"precio\": 5,\r\n    \"stock\": 10,\r\n    \"categoria\": \"640a1a983105586e59709904\",\r\n    \"descripcion\": \"cereal de chocolate\"\r\n}",
+							"raw": "{\r\n    \"nombre\": \"Crema en leche\",\r\n    \"precio\": 5,\r\n    \"stock\": 10,\r\n    \"categoria\": \"640a1a983105586e59709904\",\r\n    \"descripcion\": \"Crema en leche buen estado >!\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -201,7 +201,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"nombre\": \"PAN BIMBO\"\r\n}",
+							"raw": "{\r\n    \"nombre\": \"Cremoncitos\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -294,7 +294,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"nombre\": \"Pan\"\r\n}",
+							"raw": "{\r\n    \"nombre\": \"Campechana\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -329,7 +329,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"nombre\": \"Texto ejemplo2\"\r\n}",
+							"raw": "{\r\n    \"nombre\": \"Tostadas\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -417,7 +417,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"nombre\": \"Manuel\",\r\n    \"correo\": \"manuel@gmail.com\",\r\n    \"password\": \"123456\",\r\n    \"rol\": \"\"\r\n}",
+							"raw": "{\r\n    \"nombre\": \"Yerardy\",\r\n    \"correo\": \"yerardy@gmail.com\",\r\n    \"password\": \"123456\",\r\n    \"rol\": \"\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -452,7 +452,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"nombre\": \"juanjo\",\r\n    \"correo\": \"juanjo@gmail.com\",\r\n    \"password\": \"123456\"\r\n}",
+							"raw": "{\r\n    \"nombre\": \"Samuel\",\r\n    \"correo\": \"samuel@gmail.com\",\r\n    \"password\": \"123456\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -637,7 +637,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"correo\": \"victor@gmail.com\",\r\n    \"password\": \"123456\"\r\n}",
+					"raw": "{\r\n    \"correo\": \"yerardy@gmail.com\",\r\n    \"password\": \"123456\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -672,7 +672,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"correo\": \"manuel@gmail.com\",\r\n    \"password\": \"123456\"\r\n}",
+					"raw": "{\r\n    \"correo\": \"samuel@gmail.com\",\r\n    \"password\": \"123456\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
